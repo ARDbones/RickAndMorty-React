@@ -1,0 +1,16 @@
+.pagination-container {
+    margin : 2rem auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.page-container {
+    margin: 0 0.9rem;
+}
+
+.pagination-container .arrow-container {
+    display: flex;
+    align-items: center;
+    width: calc(24px + 1.8rem);
+}
